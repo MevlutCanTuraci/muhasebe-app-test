@@ -1,0 +1,41 @@
+21.02.2024 16:48:19
+Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+21.02.2024 17:05:06
+Dize geçerli bir DateTime olarak tanınmadı.
+21.02.2024 17:05:32
+Dize geçerli bir DateTime olarak tanınmadı.
+21.02.2024 17:21:58
+could not insert: [Indeks.Data.BusinessObjects.StokHareket][SQL: INSERT INTO StokHareket (GCMIK, GCKOD, TARIH, BIRIM_FIYAT, KDV, HTUR, SATISK1, SATISK2, SATISK3, SATISK4, SATISK5, FisNo, FTIRSIP, DirektSatis, SipNum, HareketBirim, HareketMiktar, SUBE_KODU, STOK_KODU) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?); select last_insert_rowid()]
+21.02.2024 17:21:58
+constraint failed
+NOT NULL constraint failed: StokHareket.HareketMiktar
+21.02.2024 17:21:59
+null id in Indeks.Data.BusinessObjects.StokHareket entry (don't flush the Session after an exception occurs)
+21.02.2024 17:23:59
+could not insert: [Indeks.Data.BusinessObjects.StokHareket][SQL: INSERT INTO StokHareket (GCMIK, GCKOD, TARIH, BIRIM_FIYAT, KDV, HTUR, SATISK1, SATISK2, SATISK3, SATISK4, SATISK5, FisNo, FTIRSIP, DirektSatis, SipNum, HareketBirim, HareketMiktar, SUBE_KODU, STOK_KODU) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?); select last_insert_rowid()]
+21.02.2024 17:23:59
+constraint failed
+NOT NULL constraint failed: StokHareket.HareketMiktar
+21.02.2024 17:24:03
+null id in Indeks.Data.BusinessObjects.StokHareket entry (don't flush the Session after an exception occurs)
+21.02.2024 17:24:23
+could not insert: [Indeks.Data.BusinessObjects.StokHareket][SQL: INSERT INTO StokHareket (GCMIK, GCKOD, TARIH, BIRIM_FIYAT, KDV, HTUR, SATISK1, SATISK2, SATISK3, SATISK4, SATISK5, FisNo, FTIRSIP, DirektSatis, SipNum, HareketBirim, HareketMiktar, SUBE_KODU, STOK_KODU) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?); select last_insert_rowid()]
+21.02.2024 17:24:23
+constraint failed
+NOT NULL constraint failed: StokHareket.HareketMiktar
+21.02.2024 17:24:26
+null id in Indeks.Data.BusinessObjects.StokHareket entry (don't flush the Session after an exception occurs)
+21.02.2024 17:28:39
+Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+21.02.2024 17:28:43
+Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+22.02.2024 10:32:02
+Dize geçerli bir DateTime olarak tanınmadı.
+22.02.2024 12:25:46
+Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+22.02.2024 15:38:24
+Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+22.02.2024 15:39:18
+Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+11.03.2024 15:52:35
+Nesne başvurusu bir nesnenin örneğine ayarlanmadı.

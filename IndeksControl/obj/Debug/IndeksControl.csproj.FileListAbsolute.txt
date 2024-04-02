@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\IndeksTicari-master\IndeksControl\bin\Debug\IndeksControl.dll
+C:\Users\User\Desktop\IndeksTicari-master\IndeksControl\bin\Debug\IndeksControl.pdb
+C:\Users\User\Desktop\IndeksTicari-master\IndeksControl\obj\Debug\IndeksControl.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IndeksTicari-master\IndeksControl\obj\Debug\IndeksControl.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IndeksTicari-master\IndeksControl\obj\Debug\IndeksControl.dll
+C:\Users\User\Desktop\IndeksTicari-master\IndeksControl\obj\Debug\IndeksControl.pdb

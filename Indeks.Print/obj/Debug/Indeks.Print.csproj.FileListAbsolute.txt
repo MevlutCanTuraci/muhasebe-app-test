@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\IndeksTicari-master\Indeks.Print\bin\Debug\Indeks.Print.dll
+C:\Users\User\Desktop\IndeksTicari-master\Indeks.Print\bin\Debug\Indeks.Print.pdb
+C:\Users\User\Desktop\IndeksTicari-master\Indeks.Print\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Desktop\IndeksTicari-master\Indeks.Print\bin\Debug\Indeks.Data.dll
+C:\Users\User\Desktop\IndeksTicari-master\Indeks.Print\bin\Debug\NHibernate.dll
+C:\Users\User\Desktop\IndeksTicari-master\Indeks.Print\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Desktop\IndeksTicari-master\Indeks.Print\bin\Debug\Indeks.Data.pdb
+C:\Users\User\Desktop\IndeksTicari-master\Indeks.Print\bin\Debug\NHibernate.xml
+C:\Users\User\Desktop\IndeksTicari-master\Indeks.Print\obj\Debug\Indeks.Print.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IndeksTicari-master\Indeks.Print\obj\Debug\Indeks.Print.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IndeksTicari-master\Indeks.Print\obj\Debug\Indeks.P.A2B2FD75.Up2Date
+C:\Users\User\Desktop\IndeksTicari-master\Indeks.Print\obj\Debug\Indeks.Print.dll
+C:\Users\User\Desktop\IndeksTicari-master\Indeks.Print\obj\Debug\Indeks.Print.pdb
